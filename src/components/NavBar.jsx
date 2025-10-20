@@ -1,8 +1,6 @@
 import { NavLink } from "react-router-dom";
 import { FaGithub } from "react-icons/fa";
 import logo from "../assets/logo.png";
-import { FaAppStore } from "react-icons/fa6";
-import { GrInstallOption } from "react-icons/gr";
 
 export default function NavBar() {
   return (
@@ -47,13 +45,10 @@ export default function NavBar() {
                 </NavLink>
               </li>
               <li>
-                <FaAppStore className="mr-1" />{" "}
                 <NavLink to="/apps">All Apps</NavLink>
               </li>
               <li>
-                <NavLink to="/installation">
-                  <GrInstallOption className="mr-1" /> My Installation
-                </NavLink>
+                <NavLink to="/installation">My Installation</NavLink>
               </li>
             </ul>
           </div>
