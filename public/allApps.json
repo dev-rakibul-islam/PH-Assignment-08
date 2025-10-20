@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://cdn.simpleicons.org/spotify",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Spotify is a digital music, podcast, and video streaming service that gives users access to millions of songs and other content from creators all over the world. You can discover new music, build playlists, share with friends, and listen offline with premium. The platform also provides personalized recommendations based on your listening history and mood.",
+    "size": 85,
+    "reviews": 1542000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 350000 },
+      { "name": "5 star", "count": 1100000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/instagram",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "id": 2,
+    "description": "Instagram is a social media app for sharing photos, short videos, stories, and reels with followers. Users can edit their posts with filters and effects, follow others, explore trending content, and interact via likes and comments. It’s designed for instant visual storytelling and community engagement.",
+    "size": 120,
+    "reviews": 2100000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 1180000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/whatsapp",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 3,
+    "description": "WhatsApp Messenger is a free messaging and VOIP app that lets users send text messages, voice messages, images, videos, and make voice or video calls. It emphasizes security with end-to-end encryption, group chats, status updates, and cross-platform syncing across devices.",
+    "size": 95,
+    "reviews": 3200000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 2530000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/tiktok",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 4,
+    "description": "TikTok is a platform for creating and sharing short-form video content with music, filters, and effects. Users can explore trending challenges, lip-sync, dance, comedy, or creative clips. The algorithm surface content based on engagement and interests, making each user’s feed unique and addictive.",
+    "size": 150,
+    "reviews": 2450000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 1320000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/youtube",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 5,
+    "description": "YouTube is a video-sharing platform where users can upload, watch, like, comment, and share videos on virtually any topic. Content ranges from vlogs, tutorials, music videos, live streams, and more. It also provides monetization, recommendations, and subscriptions for creators and viewers alike.",
+    "size": 160,
+    "reviews": 3900000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 190000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 850000 },
+      { "name": "5 star", "count": 2210000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/facebook",
+    "title": "Facebook",
+    "companyName": "Meta Platforms Inc.",
+    "id": 6,
+    "description": "Facebook is a social networking app that lets users connect with friends, share posts, photos, videos, join groups, follow pages, and chat. It offers features like events, marketplace, live video, and algorithmic feeds to keep users engaged with their communities.",
+    "size": 130,
+    "reviews": 5000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 350000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1100000 },
+      { "name": "5 star", "count": 2550000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/x",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "id": 7,
+    "description": "X, formerly known as Twitter, is a microblogging platform where users post short updates called 'tweets', share images, links, and engage via replies, likes, and retweets. It enables real-time conversation, news, trends, and threading with hashtags and mentions.",
+    "size": 100,
+    "reviews": 1100000,
+    "ratingAvg": 4.0,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 280000 },
+      { "name": "5 star", "count": 300000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/snapchat",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 8,
+    "description": "Snapchat is a multimedia messaging app where users send ephemeral photos and short videos called 'Snaps' that disappear after viewing. It also provides features like Stories, Snap Map, AR lenses, chat, and Spotlight for creative content sharing.",
+    "size": 90,
+    "reviews": 870000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 70000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 130000 },
+      { "name": "4 star", "count": 220000 },
+      { "name": "5 star", "count": 390000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/telegram",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 9,
+    "description": "Telegram is a cloud-based instant messaging app with emphasis on speed, security, and privacy. It supports large group chats, bots, channels, file sharing, voice calls, and offers encrypted secret chats for sensitive conversations.",
+    "size": 75,
+    "reviews": 970000,
+    "ratingAvg": 4.8,
+    "downloads": 700000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 160000 },
+      { "name": "5 star", "count": 705000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/netflix",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 10,
+    "description": "Netflix is a streaming service that offers a wide range of TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices. You can watch as much as you want, anytime, without a single commercial — all for one low monthly price.",
+    "size": 140,
+    "reviews": 2100000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 550000 },
+      { "name": "5 star", "count": 970000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/zoom",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 11,
+    "description": "Zoom is a video conferencing app that enables you to host and join virtual meetings, webinars, and chats with screen sharing, recording, breakout rooms, and real-time collaboration features. It’s widely used for remote work, education, and virtual events.",
+    "size": 110,
+    "reviews": 850000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 360000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/googlemaps",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 12,
+    "description": "Google Maps offers navigation, real-time traffic updates, route planning for traveling by foot, car, bicycle or public transport, and detailed maps with local business info, street view, and satellite photos. It helps users explore places and get turn-by-turn directions.",
+    "size": 95,
+    "reviews": 2700000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 1800000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/uber",
+    "title": "Uber",
+    "companyName": "Uber Technologies Inc.",
+    "id": 13,
+    "description": "Uber is a ride-hailing and delivery platform that connects riders to drivers, as well as enabling food delivery through Uber Eats. You can request a ride, track your driver, and pay seamlessly with the app. It’s a convenient way to move around and order services on demand.",
+    "size": 130,
+    "reviews": 1700000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 830000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/airbnb",
+    "title": "Airbnb",
+    "companyName": "Airbnb Inc.",
+    "id": 14,
+    "description": "Airbnb is an online marketplace for lodging, offering unique homes and experiences hosted by local hosts. Travelers can book places to stay, participate in local events or tours, and explore neighborhoods like a local, all through one unified platform.",
+    "size": 105,
+    "reviews": 960000,
+    "ratingAvg": 4.6,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 600000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/reddit",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 15,
+    "description": "Reddit is a network of communities where people share news, content, and discussion threads on almost any topic. Users post links, ask questions, comment, upvote, downvote, and join subreddits focused on specific interests.",
+    "size": 90,
+    "reviews": 870000,
+    "ratingAvg": 4.4,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 410000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corp.",
+    "id": 16,
+    "description": "LinkedIn is a professional networking platform where users build their professional identity, connect with colleagues, follow companies, post updates, share articles, find or post jobs, and learn new skills through LinkedIn Learning.",
+    "size": 100,
+    "reviews": 910000,
+    "ratingAvg": 4.5,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 500000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/paypal",
+    "title": "PayPal",
+    "companyName": "PayPal Holdings Inc.",
+    "id": 17,
+    "description": "PayPal is a digital payments system that lets users send and receive money, pay for goods, and manage transactions securely. It supports peer-to-peer transfers, online checkout, currency conversions, and business payments across platforms.",
+    "size": 80,
+    "reviews": 670000,
+    "ratingAvg": 4.3,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 330000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/pinterest",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "id": 18,
+    "description": "Pinterest is a discovery and bookmarking tool where users can save (pin) and organize images, ideas, recipes, styles, and inspiration into collections. It helps people plan projects and find ideas through visual exploration.",
+    "size": 95,
+    "reviews": 740000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 35000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 180000 },
+      { "name": "5 star", "count": 425000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/discord",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 19,
+    "description": "Discord is a chat and community platform designed for gamers, creators, and groups. It supports voice, video, text channels, private messaging, communities, integrations (bots), and screen sharing. It's optimized for real-time interaction.",
+    "size": 85,
+    "reviews": 880000,
+    "ratingAvg": 4.7,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 605000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/duolingo",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "id": 20,
+    "description": "Duolingo is a language-learning app that delivers bite-sized lessons, quizzes, and games to help users build reading, listening, speaking, and writing skills. It uses gamification (streaks, rewards, leveling) to keep learners motivated and consistent.",
+    "size": 70,
+    "reviews": 950000,
+    "ratingAvg": 4.8,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 690000 }
+    ]
+  }
+]

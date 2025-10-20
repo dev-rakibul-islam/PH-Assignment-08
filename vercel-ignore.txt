@@ -1,0 +1,7 @@
+# Files and folders Vercel can ignore for builds
+# (Optional convenience; Vercel builds primarily use package.json scripts)
+.git
+node_modules
+**/.DS_Store
+**/Thumbs.db
+**/*.log
