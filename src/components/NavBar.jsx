@@ -45,10 +45,24 @@ export default function NavBar() {
                 </NavLink>
               </li>
               <li>
-                <NavLink to="/apps">All Apps</NavLink>
+                <NavLink
+                  className={({ isActive }) =>
+                    isActive ? "text-purple-500" : ""
+                  }
+                  to="/apps"
+                >
+                  All Apps
+                </NavLink>
               </li>
               <li>
-                <NavLink to="/installation">My Installation</NavLink>
+                <NavLink
+                  className={({ isActive }) =>
+                    isActive ? "text-purple-500" : ""
+                  }
+                  to="/installation"
+                >
+                  My Installation
+                </NavLink>
               </li>
             </ul>
           </div>
